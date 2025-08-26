@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Projeto1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc-msys2-mingw64" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Projeto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc-msys2-mingw64" />
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Projeto1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc-msys2-mingw64" />
+			</Target>
+		</Build>
+		<Unit filename="main.cpp" />
+		<Unit filename="service/container/domain/Capacidade.cpp" />
+		<Unit filename="service/container/domain/Capacidade.hpp" />
+		<Unit filename="service/container/domain/Cartao.cpp" />
+		<Unit filename="service/container/domain/Cartao.hpp" />
+		<Unit filename="service/container/domain/Codigo.cpp" />
+		<Unit filename="service/container/domain/Codigo.hpp" />
+		<Unit filename="service/container/domain/Data.cpp" />
+		<Unit filename="service/container/domain/Data.hpp" />
+		<Unit filename="service/container/domain/Dinheiro.cpp" />
+		<Unit filename="service/container/domain/Dinheiro.hpp" />
+		<Unit filename="service/container/domain/Email.cpp" />
+		<Unit filename="service/container/domain/Email.hpp" />
+		<Unit filename="service/container/domain/Endereco.cpp" />
+		<Unit filename="service/container/domain/Endereco.hpp" />
+		<Unit filename="service/container/domain/InterfaceDominio.hpp" />
+		<Unit filename="service/container/domain/Nome.cpp" />
+		<Unit filename="service/container/domain/Nome.hpp" />
+		<Unit filename="service/container/domain/Numero.cpp" />
+		<Unit filename="service/container/domain/Numero.hpp" />
+		<Unit filename="service/container/domain/Ramal.cpp" />
+		<Unit filename="service/container/domain/Ramal.hpp" />
+		<Unit filename="service/container/domain/Senha.cpp" />
+		<Unit filename="service/container/domain/Senha.hpp" />
+		<Unit filename="service/container/domain/Telefone.cpp" />
+		<Unit filename="service/container/domain/Telefone.hpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

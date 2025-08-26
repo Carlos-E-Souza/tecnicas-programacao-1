@@ -1,0 +1,92 @@
+# depslib dependency file v1.0
+1756051176 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\capacidade.cpp
+	"Capacidade.hpp"
+
+1756057085 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\capacidade.hpp
+	<vector>
+	"InterfaceDominio.hpp"
+
+1756051222 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\cartao.cpp
+	"Cartao.hpp"
+
+1756050511 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\cartao.hpp
+	"InterfaceDominio.hpp"
+
+1756057113 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\main.cpp
+	<iostream>
+	<stdexcept>
+	"service/container/domain/Capacidade.hpp"
+	"service/container/domain/Cartao.hpp"
+	"service/container/domain/Codigo.hpp"
+
+1755994508 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\codigo.cpp
+	"Codigo.hpp"
+
+1756053655 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\codigo.hpp
+	<regex>
+	"InterfaceDominio.hpp"
+
+1756054097 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\interfacedominio.hpp
+	<string>
+	<stdexcept>
+
+1756054083 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\data.cpp
+	"Data.hpp"
+
+1756054150 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\data.hpp
+	<map>
+	<regex>
+	"InterfaceDominio.hpp"
+
+1756055751 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\dinheiro.cpp
+	<sstream>
+	<iomanip>
+	"Dinheiro.hpp"
+
+1756055827 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\dinheiro.hpp
+	<regex>
+	"InterfaceDominio.hpp"
+
+1756056677 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\email.cpp
+	"Email.hpp"
+
+1756056912 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\email.hpp
+	<vector>
+	"InterfaceDominio.hpp"
+
+1756057476 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\endereco.cpp
+	"Endereco.hpp"
+
+1756057423 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\endereco.hpp
+	"InterfaceDominio.hpp"
+
+1756057661 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\nome.cpp
+	"Nome.hpp"
+
+1756057625 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\nome.hpp
+	"InterfaceDominio.hpp"
+
+1756057791 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\numero.cpp
+	"Numero.hpp"
+
+1756057772 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\numero.hpp
+	"InterfaceDominio.hpp"
+
+1756057914 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\ramal.cpp
+	"Ramal.hpp"
+
+1756057859 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\ramal.hpp
+	"InterfaceDominio.hpp"
+
+1756058098 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\senha.cpp
+	"Senha.hpp"
+
+1756058077 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\senha.hpp
+	"InterfaceDominio.hpp"
+
+1756058459 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\telefone.cpp
+	"Telefone.hpp"
+
+1756058429 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\telefone.hpp
+	"InterfaceDominio.hpp"
+
