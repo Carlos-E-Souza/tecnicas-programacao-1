@@ -2,12 +2,18 @@
 1756051176 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\capacidade.cpp
 	"Capacidade.hpp"
 
+1756051176 e.hpp"
+
 1756057085 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\capacidade.hpp
 	<vector>
 	"InterfaceDominio.hpp"
 
+1756058429 Dominio.hpp"
+
 1756051222 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\cartao.cpp
 	"Cartao.hpp"
+
+1756057791 p"
 
 1756050511 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\cartao.hpp
 	"InterfaceDominio.hpp"
@@ -18,6 +24,8 @@
 	"service/container/domain/Capacidade.hpp"
 	"service/container/domain/Cartao.hpp"
 	"service/container/domain/Codigo.hpp"
+
+1756057113 ontainer/domain/Codigo.hpp"
 
 1755994508 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\codigo.cpp
 	"Codigo.hpp"
@@ -30,8 +38,12 @@
 	<string>
 	<stdexcept>
 
+1756054097 >
+
 1756054083 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\data.cpp
 	"Data.hpp"
+
+1756057661 
 
 1756054150 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\data.hpp
 	<map>
@@ -43,12 +55,16 @@
 	<iomanip>
 	"Dinheiro.hpp"
 
+1756058459 hpp"
+
 1756055827 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\dinheiro.hpp
 	<regex>
 	"InterfaceDominio.hpp"
 
 1756056677 source:c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\email.cpp
 	"Email.hpp"
+
+1756058098 "
 
 1756056912 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\email.hpp
 	<vector>
@@ -89,4 +105,126 @@
 
 1756058429 c:\users\kdu26\documents\unb\tp1\tecnicas-programacao-1\projeto1\service\container\domain\telefone.hpp
 	"InterfaceDominio.hpp"
+
+1757465142 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Capacidade.cpp
+	"Capacidade.hpp"
+
+1757464772 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Capacidade.hpp
+	<vector>
+	"InterfaceDominio.hpp"
+
+1757464466 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/InterfaceDominio.hpp
+	<string>
+	<stdexcept>
+
+1757465133 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Cartao.cpp
+	"Cartao.hpp"
+
+1757463447 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Cartao.hpp
+	"InterfaceDominio.hpp"
+
+1757464573 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Codigo.cpp
+	"Codigo.hpp"
+
+1757463547 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Codigo.hpp
+	<regex>
+	"InterfaceDominio.hpp"
+
+1757465500 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Data.cpp
+	"Data.hpp"
+
+1757463641 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Data.hpp
+	<map>
+	<regex>
+	"InterfaceDominio.hpp"
+
+1757465469 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Dinheiro.cpp
+	<sstream>
+	<iomanip>
+	"Dinheiro.hpp"
+
+1757464030 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Dinheiro.hpp
+	<regex>
+	"InterfaceDominio.hpp"
+
+1757464670 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Email.cpp
+	"Email.hpp"
+
+1757464111 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Email.hpp
+	<vector>
+	"InterfaceDominio.hpp"
+
+1757464741 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Endereco.cpp
+	"Endereco.hpp"
+
+1757464164 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Endereco.hpp
+	"InterfaceDominio.hpp"
+
+1757465154 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Nome.cpp
+	"Nome.hpp"
+
+1757464198 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Nome.hpp
+	"InterfaceDominio.hpp"
+
+1757464799 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Numero.cpp
+	"Numero.hpp"
+
+1757464319 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Numero.hpp
+	"InterfaceDominio.hpp"
+
+1757465171 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Ramal.cpp
+	"Ramal.hpp"
+
+1757464345 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Ramal.hpp
+	"InterfaceDominio.hpp"
+
+1757465197 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Senha.cpp
+	"Senha.hpp"
+
+1757464376 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Senha.hpp
+	"InterfaceDominio.hpp"
+
+1757465213 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Telefone.cpp
+	"Telefone.hpp"
+
+1757464399 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/domain/Telefone.hpp
+	"InterfaceDominio.hpp"
+
+1757459389 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/main.cpp
+	<iostream>
+	<stdexcept>
+	<string>
+	"service/DAO/DatabaseManager.hpp"
+
+1757465273 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/Gerente.hpp
+	<sstream>
+	"Pessoa.hpp"
+	"domain/Ramal.hpp"
+	"domain/Senha.hpp"
+
+1757465249 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/container/Pessoa.hpp
+	<string>
+	"domain/Nome.hpp"
+	"domain/Email.hpp"
+
+1757460564 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/DAO/DatabaseManager.hpp
+	<memory>
+	<string>
+	<iostream>
+	<sqlite3.h>
+	"GerenteDAO.hpp"
+
+1757460331 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/DAO/GerenteDAO.hpp
+	<iostream>
+	<vector>
+	<optional>
+	"BaseDAO.hpp"
+	"../container/Gerente.hpp"
+
+1757460615 /home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/DAO/BaseDAO.hpp
+	<vector>
+	<sqlite3.h>
+
+1757465399 source:/home/kadu/Documents/UNB/TP1/tecnicas-programacao-1/Projeto1/service/DAO/GerenteDAO.cpp
+	"GerenteDAO.hpp"
 
